@@ -10,7 +10,7 @@
 こんにちはが10秒間移ってから、さようならは3秒間移ってから消えます。
 <br>
 <br>
-これは<font color="#ff0000">TEST版</font>です。
+これは<span style="color: red; ">TEST版</span>です。
 <br>
 というかRelease版なんか出すかよ！！！
 <br>
